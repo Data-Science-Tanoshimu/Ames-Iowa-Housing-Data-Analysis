@@ -1,4 +1,4 @@
-# Project 1: The SAT and The ACT Analysis
+# Project 1: Ames Iowa Housing dataset Analysis
 
 ### Problem Statement
 
