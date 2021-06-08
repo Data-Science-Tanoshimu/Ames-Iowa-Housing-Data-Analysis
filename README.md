@@ -1,4 +1,4 @@
-# Project 2: Ames Iowa Housing dataset Analysis
+# Project 2: Ames Iowa Housing Data Analysis
 
 ### Problem Statement
 
